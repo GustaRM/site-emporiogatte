@@ -10,6 +10,7 @@
 nav {   
     display: flex;
     height: 130px;
+    min-width: 580px;
 
     background-color: black;
  }
@@ -121,6 +122,7 @@ img.logo {
 
 main {
     height: 100hv;
+    min-width: 580px;
     background-image: url("imagens/wallpaper001.jpg");
     background-attachment: fixed;
     display: flex;
